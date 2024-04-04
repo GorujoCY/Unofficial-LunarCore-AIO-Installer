@@ -1,0 +1,49 @@
+Gorujo, hereby disclaims all copyright interest in the program (which fully installs LunarCore.) written by them.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+
+This file is part of LunarCore.
+
+Gorujo, hereby disclaims all copyright interest in the program "LunarCore" (A game server reimplementation for a certain turn-based anime game.) written by Melledy.
+
+LunarCore is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+LunarCore is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with LunarCore. If not, see <https://www.gnu.org/licenses/>.
+
+
+This file is part of Cultivation.
+
+Gorujo, hereby disclaims all copyright interest in the program "Cultivation" (A custom launcher designed to make it as easy as possible to proxy anime game traffic to private servers.) written by Grasscutters.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+This file is part of Oracle JDK 17.
+
+Gorujo, hereby disclaims all copyright interest in the program "Oracle JDK 17" (a development environment for building applications and components using the Java programming language.) written by Oracle Corporation/Oracle America Inc.
+
+JDK 17 binaries are free to use in production and free to redistribute, at no cost, under the Oracle No-Fee Terms and Conditions (NFTC)[https://www.oracle.com/downloads/licenses/no-fee-license.html].
+
+JDK 17 will receive updates under the NFTC, until September 2024. Subsequent JDK 17 updates will be licensed under the Java SE OTN License (OTN)[https://www.oracle.com/downloads/licenses/javase-license1.html] and production use beyond the limited free grants of the OTN license will require a fee.
+
+ORACLE'S DOCUMENTATION LICENSE: https://download.oracle.com/otndocs/jcp/java_se-17-final-spec/license.html
+
+JDK 17 Licensing Information User Manual (includes third-party licenses):
+https://www.oracle.com/a/tech/docs/jdk17-lium.pdf
