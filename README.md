@@ -1,5 +1,5 @@
 # LunarCore-AIO-Installer
-Inno Setup Source Code and where the binary will be distributed if storage allows. Includes necessary component and client!
+Inno Setup Source Code and where the binary will be distributed. Includes necessary component and client!
 # To edit soon for now here's some credits
 - [Melledy's LunarCore](https://github.com/Melledy/LunarCore/) for their amazing project!
 - [Grasscutters Cultivation](https://github.com/Grasscutters/Cultivation) for their amazing client!
