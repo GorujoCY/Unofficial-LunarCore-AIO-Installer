@@ -13,6 +13,7 @@
 AppId=[REDACTED FOR SECURITY REASON]
 AppName={#MyAppName}
 AppVerName=Gorujo's LunarCore Installer 1.0
+; ' Closing out quotation markdown issue here
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 UninstallDisplayIcon=%USERPROFILE%\(...)\files\icon.ico
