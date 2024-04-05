@@ -3,7 +3,7 @@
 
 #define MyAppName "LunarCore"
 #define MyAppVersion "1.0"
-#define MyAppPublisher "Gorujo. For LC: Meledy"
+#define MyAppPublisher "Gorujo. For LC: Melledy"
 #define MyAppExeName "LunarCore.jar"
 
 [Setup]
