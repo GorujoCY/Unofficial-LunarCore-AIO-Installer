@@ -9,7 +9,7 @@ This installer is NOT AFFILIATED by LunarCore or any third parties, they are cre
 - Choose components to install and/or remove components when uninstalling and create desktop shortcut.
 - Shortcuts launches command prompt with the jar executable assuming you have installed it correctly!
 - Every file Including data and resources is pre bundled for an out of the box experience (except database, plugin and logs).
-- Modified config.json: Relic Level Cap Increased to lv9999 and have disabled useSSL for you and some other surprising modifications!
+- Modified config.json: Relic Level Cap Increased to lv9999 and have disabled `useSSL` for you and some other surprising modifications!
 # Credits
 - [Melledy's LunarCore](https://github.com/Melledy/LunarCore/) for their amazing project!
 - [Grasscutters Cultivation](https://github.com/Grasscutters/Cultivation) for their amazing client!
