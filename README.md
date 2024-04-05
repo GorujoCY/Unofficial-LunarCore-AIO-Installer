@@ -2,7 +2,7 @@
 [Writing WIP]
 Inno Setup Source Code and where the binary will be distributed (Windows Only). Includes necessary component and client!
 # Notice
-This installer is NOT AFFILIATED by LunarCore or any third parties, they are credited below and read the license agreement for further notices. This is a self project dedicated to make installing it easier but things may still be subject to change.
+This installer is NOT AFFILIATED by LunarCore or any third parties, they are credited below and read the [license agreement](https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer/blob/main/TextFilesSources/licensetext.txt) for further notices. This is a self project dedicated to make installing it easier but things may still be subject to change.
 # Features
 - Bundled necessary component and client.
 - Choose components to install and/or remove components when uninstalling and create desktop shortcut.
