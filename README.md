@@ -1,4 +1,4 @@
-# LunarCore-AIO-Installer
+# Unofficial-LunarCore-AIO-Installer
 [Writing WIP]
 
 Inno Setup Source Code and where the binary will be distributed (Windows Only). Includes necessary component and client!
