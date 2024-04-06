@@ -53,6 +53,7 @@ Source: "%USERPROFILE%\(...)\files\LICENSE"; DestDir: "{app}"; Flags: ignorevers
 Source: "%USERPROFILE%\(...)\files\config.json"; DestDir: "{app}"; Flags: ignoreversion
 Source: "%USERPROFILE%\(...)\files\keystore.p12"; DestDir: "{app}"; Flags: ignoreversion
 Source: "%USERPROFILE%\(...)\files\icon.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "%USERPROFILE%\(...)\files\icon-doc.ico"; DestDir: "{app}"; Flags: ignoreversion
 Source: "%USERPROFILE%\(...)\files\jdk-17_windows-x64_bin.exe"; DestDir: "{app}"; Flags: ignoreversion deleteafterinstall
 Source: "%USERPROFILE%\(...)\files\Cultivation_1.2.0_x64_en-US.msi"; DestDir: "{app}"; Flags: ignoreversion deleteafterinstall
 Source: "%USERPROFILE%\(...)\files\data\*"; DestDir: "{app}\data"; Flags: ignoreversion recursesubdirs createallsubdirs
