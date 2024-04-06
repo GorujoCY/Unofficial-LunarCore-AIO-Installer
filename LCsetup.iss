@@ -65,7 +65,7 @@ Name: "{group}\LunarCore"; Filename: "{cmd}"; Parameters: "/K java -jar {app}\{#
 Name: "{group}\{cm:UninstallProgram,LunarCore}"; Filename: "{uninstallexe}"
 Name: "{group}\LunarCore Handbook"; Filename: "{app}\Lunar Core Handbook.txt"; WorkingDir: "{app}"; IconFilename: "%USERPROFILE%\(...)\files\icon-doc.ico"
 Name: "{autodesktop}\LunarCore"; Filename: "{cmd}"; Parameters: "/K java -jar {app}\{#MyAppExeName}"; Tasks: desktopicon; IconFilename: "%USERPROFILE%\(...)\files\icon.ico"; WorkingDir: "{app}"
-Name: "{autodesktop}\LunarCore Handbook"; Filename: "{app}\Lunar Core Handbook.txt";  Tasks: desktopicon; WorkingDir: "{app}"; IconFilename: "%USERPROFILE%\(...)\\files\icon-doc.ico"
+Name: "{autodesktop}\LunarCore Handbook"; Filename: "{app}\Lunar Core Handbook.txt";  Tasks: desktopicon; WorkingDir: "{app}"; IconFilename: "%USERPROFILE%\(...)\files\icon-doc.ico"
 
 [Run]
 Filename: "{app}\jdk-17_windows-x64_bin.exe"; Parameters: "/qn"; StatusMsg: "Installing JDK 17..."; Flags: runhidden; Components: installjdk17;
