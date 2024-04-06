@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "LunarCore"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.01"
 #define MyAppPublisher "Gorujo. For LC: Meledy"
 #define MyAppExeName "LunarCore.jar"
 
@@ -12,7 +12,7 @@
 ; I redacted directories to hide my windows username and simplify the actual location
 AppId=[REDACTED FOR SECURITY REASON]
 AppName={#MyAppName}
-AppVerName=Gorujo's LunarCore Installer 1.0
+AppVerName=Gorujo's LunarCore Installer 1.01
 ;' Closing out quotation markdown issue here, this is supposed to be a comment 
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
