@@ -16,7 +16,7 @@ Very simply install the [executable](https://github.com/GorujoCY/Unofficial-Luna
 # Install from Source?
 Unfortunately the way Inno setup compiling works is that files get compressed then the installer gets compiled, so by the time you get to have the files you have a fully installed LunarCore and you must posses enough knowledge to install the client and component seperately. 
 
-However per suggestion of member @kostas214 I've made a [batch file](https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer/blob/main/LCfromSource.bat) that automatically fetches the latest LunarCore with not me needing to update it every so months with updates, you can just install the batch itself and it'll handle the rest with some user input.
+However per suggestion of member @kostas214 I've made a [batch file](https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer/blob/main/LCfromSource.bat) that automatically fetches the latest LunarCore with me not needing to update it every so months with updates, you can just install the batch itself and it'll handle the rest with some user input.
 # Credits
 - [Melledy's LunarCore](https://github.com/Melledy/LunarCore/) for their amazing project!
 - [Grasscutters Cultivation](https://github.com/Grasscutters/Cultivation) for their amazing client!
