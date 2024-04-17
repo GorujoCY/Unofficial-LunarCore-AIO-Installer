@@ -1,5 +1,5 @@
 # Unofficial-LunarCore-AIO-Installer
-Inno Setup Source Code and where the binary will be distributed (Windows Only). Includes necessary component and client!
+Inno Setup Source Code and where the binary will be distributed and batch installer (Windows Only). Includes necessary component and client!
 # Notice
 This installer is NOT AFFILIATED by LunarCore or any third parties, they are credited below and read the [license agreement](https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer/blob/main/TextFilesSources/licensetext.txt) for further notices. This is a self project dedicated to make installing it easier but things may still be subject to change.
 # Features
@@ -16,7 +16,7 @@ Very simply install the [executable](https://github.com/GorujoCY/Unofficial-Luna
 # Install from Source?
 Unfortunately the way Inno setup compiling works is that files get compressed then the installer gets compiled, so by the time you get to have the files you have a fully installed LunarCore and you must posses enough knowledge to install the client and component seperately. 
 
-I've started working on thr batch file, per suggestion by @kostas214 since I also realized that I can just do checks, in progress 
+However per suggestion of member @kostas214 I've made a [batch file](https://www.youtube.com/shorts/D1dv39-ekBM) that automatically fetches the latest LunarCore with not me needing to update it every so months with updates, you can just install the batch itself and it'll handle the rest with some user input.
 # Credits
 - [Melledy's LunarCore](https://github.com/Melledy/LunarCore/) for their amazing project!
 - [Grasscutters Cultivation](https://github.com/Grasscutters/Cultivation) for their amazing client!
