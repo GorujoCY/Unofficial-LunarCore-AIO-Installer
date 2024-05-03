@@ -8,7 +8,7 @@ This installer is NOT AFFILIATED by LunarCore or any third parties, they are cre
 - Shortcuts launches command prompt with the jar executable assuming you have installed it correctly!
 - Every file Including data and resources is pre bundled for an out of the box experience (except database, plugin and logs).
 - Modified config.json: Relic Level Cap Increased to lv9999 and have disabled `useSSL` for you and some other surprising modifications!
-- Haru approved fast installation ([proof](https://media.discordapp.net/attachments/840566418227068968/1225857352238895154/image.png?ex=6622a7a0&is=661032a0&hm=80080232d3ecef34da755d42b084823ed4314ce9df6297160a66d75f8937ee78&=&format=webp&quality=lossless))
+- Haru approved fast installation ([proof attachment expired](https://media.discordapp.net/attachments/840566418227068968/1225857352238895154/image.png?ex=6622a7a0&is=661032a0&hm=80080232d3ecef34da755d42b084823ed4314ce9df6297160a66d75f8937ee78&=&format=webp&quality=lossless))
 
 **Warning:** if you choose to uninstall/remove it, **everything** is removed so backup if you want. The community can explain the backup process for you I'm sure.
 # How to use it
