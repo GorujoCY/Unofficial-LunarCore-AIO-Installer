@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "LunarCore"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.11"
 #define MyAppPublisher "Gorujo. For LC: Melledy"
 #define MyAppExeName "LunarCore.jar"
 
@@ -12,7 +12,7 @@
 ; I redacted directories to hide my windows username and simplify the actual location
 AppId=[REDACTED FOR SECURITY REASON]
 AppName={#MyAppName}
-AppVerName=Gorujo's LunarCore Installer 1.1
+AppVerName=Gorujo's LunarCore Installer 1.11
 ;' Closing out quotation markdown issue here, this is supposed to be a comment 
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
@@ -37,7 +37,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Tasks]
 ;desktop shortcut choice
-Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked;
+Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}";
 ;Uninstallation decision
 Name: "uninstalljdk17"; Description: "Remove Java Development Kit 17 (SE)"; GroupDescription: "After Uninstall:"; Flags: unchecked;
 Name: "uninstallcultivation"; Description: "Remove Cultivation"; GroupDescription: "After Uninstall:"; Flags: unchecked;
