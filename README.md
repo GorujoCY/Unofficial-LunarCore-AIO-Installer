@@ -12,7 +12,7 @@ This installer is NOT AFFILIATED by LunarCore or any third parties, they are cre
 
 **Warning:** if you choose to uninstall/remove it, **everything** is removed so backup if you want. The community can explain the backup process for you I'm sure.
 # How to use it
-Very simply install the [executable](https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer/releases/download/1.0/LunarCoreSetup.exe), from there everything is provided in before and after install text, no further explaination is needed.
+Very simply install the [executable](https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer/releases/), from there everything is provided in before and after install text, no further explaination is needed.
 # Install from Source?
 Unfortunately the way Inno setup compiling works is that files get compressed then the installer gets compiled, so by the time you get to have the files you have a fully installed LunarCore and you must posses enough knowledge to install the client and component seperately. 
 
