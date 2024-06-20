@@ -115,7 +115,6 @@ for /F %%m in ('dir /b') do move "%%m" ..
 cd ..
 rmdir /S /Q StarRailData
 cd Config
-rmdir /S /Q LevelOutput
 git clone https://gitlab.com/Melledy/LunarCore-Configs
 cd LunarCore-Configs
 cd Config 
@@ -155,7 +154,6 @@ for /F %%m in ('dir /b') do move "%%m" ..
 cd .. 
 rmdir /S /Q StarRailData
 cd Config
-rmdir /S /Q LevelOutput
 git clone https://gitlab.com/Melledy/LunarCore-Configs
 cd LunarCore-Configs
 cd Config  
@@ -200,7 +198,6 @@ for /F %%m in ('dir /b') do move "%%m" ..
 cd .. 
 rmdir /S /Q StarRailData
 cd Config
-rmdir /S /Q LevelOutput
 git clone https://gitlab.com/Melledy/LunarCore-Configs
 cd LunarCore-Configs 
 cd Config 
@@ -249,7 +246,6 @@ for /F %%m in ('dir /b') do move "%%m" ..
 cd .. 
 rmdir /S /Q StarRailData
 cd Config
-rmdir /S /Q LevelOutput
 git clone https://gitlab.com/Melledy/LunarCore-Configs
 cd LunarCore-Configs 
 cd Config  
@@ -300,7 +296,6 @@ for /F %%m in ('dir /b') do move "%%m" ..
 cd .. 
 rmdir /S /Q StarRailData
 cd Config
-rmdir /S /Q LevelOutput
 git clone https://gitlab.com/Melledy/LunarCore-Configs
 cd LunarCore-Configs 
 cd Config  
