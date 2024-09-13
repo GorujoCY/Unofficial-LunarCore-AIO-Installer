@@ -1,3 +1,4 @@
+##This place will bs archived due to lack fo activity. It will have potential for unarchiving once I find my time and place for it. If there's anyone that on LunarCore that wants to take over the project if temporarily feel free to [contact me](https://gorujokun.cy/#contact)
 # Unofficial-LunarCore-AIO-Installer
 Inno Setup Source Code and where the binary will be distributed alongside batch installer (Windows Only). Includes necessary component and client!
 # Notice
